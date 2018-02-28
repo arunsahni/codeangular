@@ -1,0 +1,56 @@
+Tasks list:
+-----------------------------------------------
+1) Fixed npm issue -- Done
+2) Enable user Functionality -- Done
+3) Messages Service Integration
+4) Reset Password Functionality -- Done
+5) Reset Email Rediection route -- Done
+
+-----------------------------------------------
+Error: When install any new module:
+-----------------------------------------------
+Error: EPERM: operation not permitted, unlink 'D:\workPanel\Slovika_Projects\chitbit_fe\node_modules\fsevents\node_modules\abbrev\package.json'
+ { Error: EPERM: operation not permitted, unlink 'D:\workPanel\Slovika_Projects\chitbit_fe\node_modules\fsevents\node_modules\abbrev\package.json'
+  stack: 'Error: EPERM: operation not permitted, unlink \'D:\\workPanel\\Slovika_Projects\\chitbit_fe\\node_modules\\fsevents\\node_modules\\abbrev\\pa
+n\'',
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'unlink',
+  path: 'D:\\workPanel\\Slovika_Projects\\chitbit_fe\\node_modules\\fsevents\\node_modules\\abbrev\\package.json' }
+-----------------------------------------------
+Error: When npm version is downgraded:
+-----------------------------------------------
+  { Error: EPERM: operation not permitted, rmdir 'D:\workPanel\Slovika_Projects\chitbit_fe\node_modules\fsevents\node_modules'
+   stack: 'Error: EPERM: operation not permitted, rmdir \'D:\\workPanel\\Slovika_Projects\\chitbit_fe\\node_modules\\fsevents\\node_modules\'',
+   errno: -4048,
+   code: 'EPERM',
+   syscall: 'rmdir',
+   path: 'D:\\workPanel\\Slovika_Projects\\chitbit_fe\\node_modules\\fsevents\\node_modules' }
+
+ Please try running this command again as root/Administrator.
+
+ A complete log of this run can be found in:
+     C:\Users\arun\AppData\Roaming\npm-cache\_logs\2017-09-07T07_27_57_582Z-debug.log
+----------------------------------------------
+Solution:
+----------------------------------------------
+1) Open cmd as administrator,
+   check the version of npm, so if conflicting
+
+>npm install npm@5.3.0 -g
+
+2) npm cache clean --force
+3) Remove node_modules folder
+4) npm install
+-----------------------------------------------
+
+
+
+
+Message Service is not working
+Login message counter split
+{
+        const loggedUser = response.json();
+        if (loggedUser) {
+          localStorage.setItem('access_token', loggedUser.access_token);
+        }

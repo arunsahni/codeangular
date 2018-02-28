@@ -1,0 +1,5 @@
+https://blog.risingstack.com/async-await-node-js-7-nightly/
+https://stackoverflow.com/questions/18785400/why-do-i-have-to-call-scope-digest-here
+https://www.thinkful.com/projects/understanding-the-digest-cycle-528/
+https://www.thinkful.com/projects/understanding-the-digest-cycle-528/
+https://stackoverflow.com/questions/18785400/why-do-i-have-to-call-scope-digest-here

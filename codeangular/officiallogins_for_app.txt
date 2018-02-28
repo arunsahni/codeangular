@@ -1,0 +1,16 @@
+----------------------------------------------
+
+* Heroku
+
+url: https://dashboard.heroku.com/apps,
+     https://id.heroku.com/login
+email: arunsahani701@gmail.com
+pwd: heroku@123
+-----------------------------------------------
+
+* Mlab
+
+url: https://mlab.com/login/
+email: arunsahani701@gmail.com
+username: arunsahani
+pwd: mongo@123

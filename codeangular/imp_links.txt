@@ -1,0 +1,8 @@
+https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree
+
+https://egghead.io/courses/building-react-applications-with-idiomatic-redux
+
+https://scotch.io/tutorials/scraping-the-web-with-node-js
+
+https://toddmotto.com/pure-versus-impure-functions
+

@@ -1,0 +1,34 @@
+To Do list:
+
+few points:
+1. do not use '_' prefix in folder's names
+2. move stuff from _globalComponents to /src/app/shared
+3. put each pipe to separate file
+4. delete file's comment with your name :)
+
+delete file /assets/.gitkeep
+clean _models/index.ts file
+
+
+just remove not needed lines from there
+
+see 4 files imports, but exists only ./user
+
+---------------------------------------------------------------------------------------
+
+Unit tests for components
+Directives
+Recapcha code
+
+--------------------------------------------------------------------------------------
+
+
+need modal option for delete campaign with text (Do you really want to delete this campaign?)
+after delete you have to reload table
+
+
+
+* Code refactored.
+* Separated pipes.
+* Tried to make some generic components.
+* Studied unit test cases and directives and form validations.

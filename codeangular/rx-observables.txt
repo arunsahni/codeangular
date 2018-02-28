@@ -1,0 +1,29 @@
+
+import {Observable} from 'rxjs/Rx';
+import * as Rx from 'rxjs/Rx';
+import 'rxjs/add/observable/of';
+import 'rxjs/Rx';
+import 'rxjs/add/operator/map';
+
+export class GlobalService {
+  loginCheck: Rx.Subject<any> = new Rx.Subject<any>();
+  public loggedIn: boolean;
+
+  dummyObs: Rx.Subject<any> = new Rx.Subject<any>();
+  public dummyObsCounter = 1;
+}
+
+
+///
+  this.base_path_Service.loginCheck.subscribe(res => {
+      this.loggedIn = res;
+      console.log(this.loggedIn, '**********');
+    });
+    const myToken = localStorage.getItem('authToken');
+    if (myToken) {
+      this.loggedIn = true;
+    }
+
+
+/// 
+ this.base_path_Service.loginCheck.next(true);

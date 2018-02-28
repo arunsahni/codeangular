@@ -1,0 +1,4 @@
+* Can't be better use angular animations instead of jQuery?
+* Please don't use tables, rather use divs
+* why are you using global style for styling components? Styling of components should be in their .css files. Not here
+* Chitbit - but please remake this icons

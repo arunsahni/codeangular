@@ -1,0 +1,3 @@
+Server path: \\172.16.16.4
+username: shareduser
+pwd: wildnet@a30!@

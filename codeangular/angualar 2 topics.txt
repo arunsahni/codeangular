@@ -1,0 +1,4 @@
+* Chain Detection Strategy
+* AOT
+* Debounce time
+* @input and @ output

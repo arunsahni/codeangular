@@ -1,0 +1,3 @@
+https://webapplog.com/es6/
+https://node.university/p/premium-membership
+https://www.raywenderlich.com/178012/react-native-tutorial-building-android-apps-javascript

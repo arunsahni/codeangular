@@ -1,0 +1,6 @@
+https://www.nginx.com/blog/5-performance-tips-for-node-js-applications/
+https://stackoverflow.com/questions/16770673/using-node-js-only-vs-using-node-js-with-apache-nginx
+https://stackoverflow.com/questions/5062614/how-to-decide-when-to-use-node-js?rq=1
+https://www.digitalocean.com/community/questions/nginx-and-nodejs-how-to-use
+https://www.techinasia.com/talk/prefer-nodejs-web-application-development
+https://www.quora.com/What-are-the-ideal-use-cases-of-Node-js-For-what-needs-and-what-types-of-applications-is-Node-js-the-best-fit

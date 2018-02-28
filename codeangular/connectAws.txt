@@ -1,0 +1,9 @@
+* Aws Console Details of ReferralMax:
+
+username: craig@compelmedia.ca
+password: Webreferral6
+
+* Connect command:
+
+sudo ssh -i "live-refralmax-2.pem" ubuntu@ec2-35-182-134-48.ca-central-1.compute.amazonaws.com
+

@@ -1,0 +1,17 @@
+Receiving objects: 100% (12229/12229), 30.90 MiB | 3.40 MiB/s, done.
+Resolving deltas: 100% (5217/5217), done.
+error: unable to create file public/images/offer/1489729316_Screenshot from 2016-12-13 12:34:09.png: Invalid argument
+error: unable to create file public/images/offer/1489730965_Screenshot from 2017-01-03 18:24:17.png: Invalid argument
+fatal: unable to checkout working tree
+warning: Clone succeeded, but checkout failed.
+You can inspect what was checked out with 'git status'
+and retry the checkout with 'git checkout -f HEAD'
+
+
+-----
+C:\Users\arun\AppData\Roaming\Skype\My Skype Received Files
+
+
+
+msiexec.exe /q /i mongodb-win32-x86_64-2008plus-ssl-3.0.4-signed.msi INSTALLLOCATION="C:\Program Files\MongoDB\Server\3.4\bin" ADDLOCAL="all"
+var server = https.createServer(options, app).listen(port);

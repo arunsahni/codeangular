@@ -1,0 +1,11 @@
+Plan of action:
+
+* Sessions (Group discussion)
+* Latest tech awareness
+* Practice tests on hackerrank to improve particular skill.
+* Certifications in each or possible on particular tech
+* Comm skills
+* Random review of code of any project, then optimazation according to standards
+* Alternative resource ,if any one is on leave then work will not effect.
+
+

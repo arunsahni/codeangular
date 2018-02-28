@@ -1,0 +1,9 @@
+http://server.localhostsro.sk:39018/swagger-ui.html#!/searchEntry
+
+
+
+GET /search
+
+https://stackoverflow.com/questions/37247246/html5-event-handlingonfocus-and-onfocusout-using-angular-2
+
+https://stackoverflow.com/questions/8153281/change-div-width-live-with-jquery

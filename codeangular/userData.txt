@@ -1,0 +1,14 @@
+{
+  "firstname": "testing",
+  "lastname": "user",
+
+  "email": "testinguser@20minute.email",
+  "password": "123456789",
+    "loginType": "ZVIERACIBAZAR",
+    "userRoleEnum": "USER"
+}
+
+
+console.log(event, event.target.id, 'event on expand');
+// event.target.styleClass = 'anim-fade-in';
+inputStyleClass="ui-inputtext-src"

@@ -1,0 +1,22 @@
+Points for team
+
+* Logics
+* Understanding of NodeJs
+* Coding standards
+
+---------------------------------------------------------------
+
+* Document Understanding
+* Queries discussion
+* Code review
+* Client Call
+* Door status report
+* Testing of referral max
+----------------------------------------------------------------
+
+Swagger Implementation
+
+
+
+
+
